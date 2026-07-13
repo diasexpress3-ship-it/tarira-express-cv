@@ -1,0 +1,6 @@
+{
+  "name": "Tarira Express CV",
+  "description": "Serviço expresso para criação de CVs, Cartas de Apresentação e Portfólios profissionais em Moçambique — Ecossistema TARIRA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
